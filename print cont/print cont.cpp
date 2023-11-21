@@ -14,4 +14,6 @@ void Print(const T& c, const std::string& separate) {
 		std::cout << separate << *iter;
 		iter++;
 	}
-}
+}			
+
+int main(){}
